@@ -1,6 +1,6 @@
 module.exports = {
+  "mrs.": "mrs",
   'mr.': 'mr',
-  'mrs.': 'mrs',
   'ms.': 'ms',
   'mx.': 'mx',
   'dr.': 'dr',
